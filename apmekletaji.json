@@ -1,0 +1,18 @@
+{
+    "apmekletaji": [
+        {
+            "name": "gaz",
+            "pilseta": "ia",
+            "id": "32",
+            "talrunis": "454",
+            "apmeklejums": [
+                {
+                    "time": "6",
+                    "berni": "7",
+                    "datums": "12/01",
+                    "udens": "0"
+                }
+            ]
+        }
+    ]
+}
