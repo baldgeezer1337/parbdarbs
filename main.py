@@ -45,6 +45,7 @@ def add_apmekletajs():
         elif response=='n':
             break
     apmekletaji.append(apmekletajs)
+
 def print_apmekletajs():
              for apmekletajs in apmekletaji:
                 print('---Apmekletajs---')
@@ -69,10 +70,16 @@ def find_person_by_id():
                    return
     print('Cilveks ar noraidito ID netika atrasts.')
 
+'''def akcija():
+    if apmeklejums_time>100:
+         print('Jums ir atlaide 5%')
+    elif apmeklejums_time>200:
+         print('Jus esat VIP klients un atlaide ir 10%')'''
+         
 def main():
     #load_data()
     #add_apmekletajs()
-   # print_apmekletajs()
+   #print_apmekletajs()
     #save_data()
     #find_person_by_id()
     while (True):
